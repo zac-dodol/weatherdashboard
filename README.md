@@ -67,3 +67,6 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+![image](https://user-images.githubusercontent.com/46713066/132974525-e5eed46b-30e4-4438-a1f6-0182abd7931f.png)
+![image](https://user-images.githubusercontent.com/46713066/132974533-f200996a-17c0-458b-8f99-f3b1b4fe288c.png)

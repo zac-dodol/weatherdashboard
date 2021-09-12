@@ -86,7 +86,7 @@
         <v-divider></v-divider>
 
         <v-card-actions>
-          <v-btn text color="primary" to="/about"> SEE MORE </v-btn>
+          <v-btn text color="primary" to="/about"> SEE MORE... </v-btn>
           <v-spacer />
         </v-card-actions>
       </v-card>
